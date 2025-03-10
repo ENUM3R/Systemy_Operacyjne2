@@ -1,0 +1,3 @@
+C:/Users/cypri/CLionProjects/SystemyOperacyjne2/cmake-build-debug/CMakeFiles/SystemyOperacyjne2.dir
+C:/Users/cypri/CLionProjects/SystemyOperacyjne2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cypri/CLionProjects/SystemyOperacyjne2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
