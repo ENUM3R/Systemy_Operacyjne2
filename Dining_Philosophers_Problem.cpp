@@ -5,6 +5,7 @@
 #include <semaphore>
 
 using namespace std;
+//Autor: Cyprian Kozubek 272959, poniedziałek gr.2 7.30 TN, Projekt 1: problem ucztujących filozofów
 
 //Synchronization of cout
 mutex synchronizer;
